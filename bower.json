@@ -1,0 +1,11 @@
+{
+    "author": {
+        "name": "http://themeforest.net/user/flatfull"
+    },
+    "name": "angular-ff-ui-load",
+    "version": "0.1.1",
+    "main": ["./ui-load.js"],
+    "dependencies": {
+        "angular": ">=1"
+    }
+}
